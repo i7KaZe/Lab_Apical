@@ -8,7 +8,7 @@ Ce projet concerne la refonte complète du site web d'Apical de Christiane Lagac
 
 - L'image/logo 'apical' est centrée sur toutes les pages.
 - Les icônes 'Accueil', 'Recherche', et 'Login' sont alignées à droite dans le header.
-- Cliquer sur 'Accueil' redirige l'utilisateur vers la page d'accueil.
+- Cliquer sur 'Accueil' redirige l'utilisateur vers la page d'accueil d'apical.xyz.
 - Le design du header respecte les normes stylistiques établies.
 
 ### Footer
@@ -19,6 +19,7 @@ Ce projet concerne la refonte complète du site web d'Apical de Christiane Lagac
 
 ### Contenu
 
+- Le contenu est présent dans la page formation.php
 - Le style et le design du contenu respectent les directives établies.
 
 ### Page 404
