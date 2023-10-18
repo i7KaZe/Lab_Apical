@@ -20,6 +20,7 @@ Ce projet concerne la refonte complète du site web d'Apical de Christiane Lagac
 ### Contenu
 
 - Le contenu est présent dans la page formation.php
+- Le css est présent dans /css/style.css
 - Le style et le design du contenu respectent les directives établies.
 
 ### Page 404
